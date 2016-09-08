@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="96" height="96" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <g>
+  <title>Background</title>
+  <rect fill="#9ce1fc" stroke="#9ce1fc" stroke-width="5" x="3" y="3.14999" width="90" height="90" id="svg_2"/>
+ </g>
+
+ <g>
+  <title>Text</title>
+  <text fill="#282828" stroke="#000000" stroke-width="0" x="41.29996" y="39.49756" id="svg_1" font-size="24" font-family="Serif" text-anchor="middle" xml:space="preserve" transform="matrix(3.08572, 0, 0, 2.99119, -79.9401, -49.9409)">Tk</text>
+ </g>
+</svg>

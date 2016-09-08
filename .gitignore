@@ -1,0 +1,6 @@
+#os junk files
+[Tt]humbs.db
+*.DS_Store
+
+#archive files
+*.zip
